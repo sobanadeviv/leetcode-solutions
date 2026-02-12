@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 2
-- **Easy:** 0 🟢
+- **Total Problems Solved:** 1
+- **Easy:** 1 🟢
 - **Medium:** 0 🟡
 - **Hard:** 0 🔴
 
@@ -13,7 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
-
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/?source=submission-ac) | 🟢 Easy | python3 | 2026-02-12 |
 
 ---
 
